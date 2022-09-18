@@ -43,14 +43,14 @@
 					<skip>true</skip>
 				</configuration>
 			</plugin>
-			<plugin>
+			<!--<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
 				<configuration>
 					<skip>true</skip>
 				</configuration>
 				<inherited>true</inherited>
-			</plugin>
+			</plugin>-->
 		</plugins>
 	</build>
 </project>
