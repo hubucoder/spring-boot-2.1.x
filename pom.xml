@@ -111,6 +111,7 @@
 				<module>spring-boot-samples-invoker</module>
 				<module>spring-boot-tests</module>
 				<module>spring-boot-samples</module>
+				<module>Myspring-boot-study</module>
 			</modules>
 		</profile>
 		<!-- M2E profile to allow easy import into Eclipse -->

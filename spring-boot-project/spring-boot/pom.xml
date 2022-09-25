@@ -14,7 +14,6 @@
 	<description>Spring Boot</description>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
-<!--		<kotlin.varsion>1.6.20</kotlin.varsion>>-->
 	</properties>
 	<scm>
 		<url>${git.url}</url>
@@ -405,7 +404,7 @@
 			<plugin>
 				<groupId>org.jetbrains.kotlin</groupId>
 				<artifactId>kotlin-maven-plugin</artifactId>
-<!--				<version>${kotlin.varsion}</version>-->
+				<version>1.2.71</version>
 				<executions>
 					<execution>
 						<id>compile</id>
